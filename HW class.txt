@@ -1,4 +1,5 @@
-print("hellow world");
-print("hellow everybody");
-print("hellow my dear friend");
-print("hellow my dear friend");
+<<<<<<< HEAD
+print("hellow world"::);
+print("hellow everybody"::);
+print("hellow my dear friend"::);
+print("hellow my dear friend"::);
